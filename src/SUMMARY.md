@@ -1,3 +1,3 @@
 # Summary
 
-- [Fast GoLang mapping](./fast-golang-mapping.md)
+- [Go Faster](./go-faster.md)

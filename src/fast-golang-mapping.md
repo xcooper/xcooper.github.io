@@ -1,1 +1,0 @@
-# Fast GoLang mapping
